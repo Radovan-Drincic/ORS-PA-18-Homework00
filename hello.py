@@ -1,2 +1,8 @@
-print("Hello World")
-print("Moje ime je Radovan!")
+
+def greet(ime,prezime):
+    print("Hello there " +  ime + " " + prezime + "!")
+
+greet("Radovan" , "Drincic")
+
+
+
